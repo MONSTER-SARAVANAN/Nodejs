@@ -1,0 +1,3 @@
+20250128	12:56:33	db30b290-467f-4aca-bfa5-3b930a9dc8ec	GET	undefined	/
+20250128	12:56:34	687c0aaa-53fe-46e1-8c88-cd456890517a	GET	undefined	/css/style.css
+20250128	12:56:35	a2da8429-5bb6-4774-a0f2-70ac28b1933d	GET	undefined	/favicon.ico

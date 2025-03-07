@@ -1,0 +1,36 @@
+<!-- 1,2 <html> 
+<body>
+    <form action="http://127.0.0.1.8000/process_get_example2" method="GET">
+        FirstName:<input type="text" name="first_name"><br>
+        FirstName:<input type="text" name="first_name"><br>
+        <input type="submit" value="submit">
+    </form>
+</body>
+</html> -->
+//3
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <form action="http://127.0.0.1.8000/process_get_example3" method="GET">
+        <table>
+            <tr><td>Enter FirstName</td>
+            <td><input type="text" name="firstname"></td></tr>
+            <tr><td>Enter LastName</td>
+            <td><input type="text" name="lastname"></td></tr>
+            <tr><td>Enter Password</td>
+            <td><input type="password" name="password"></td></tr>
+            <tr><td>Sex:</td>
+            <td><input type="radio" name="sex" value="male">Male
+                <input type="radio" name="sex" value="female">FeMale</td></tr>
+            <tr><td>About You:</td><td>
+                <textarea rows="5" cols="40" name="aboutyou" placeholder="Write About YOurself"></textarea>
+            </td></tr>
+            <tr><td colspan="2"><input type="submit" value="register"></td></tr>
+        </table>
+</body>
+</html>

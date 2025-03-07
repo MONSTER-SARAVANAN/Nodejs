@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(33, 228, 202);
+}
+
+input {
+    border: 3px solid;
+}
+
+button {
+    color: rgb(0, 94, 202);
+    background-color: cornflowerblue;
+}
+
+a {
+    color: rgb(24, 228, 184);
+    font-weight: 200;
+    text-decoration: none;
+}
+
